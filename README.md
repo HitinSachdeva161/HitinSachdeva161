@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitin Sachdeva</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate Software developer from Canada</h3>
 
 - 📫 How to reach me **hitin161@gmail.com**
 
